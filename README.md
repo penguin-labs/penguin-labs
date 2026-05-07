@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=🐧+Penguin+Labs;Python+Developer;Open+Source+Contributor;16+%7C+Building+the+Future" alt="Typing Animation" />
+
   
 </div>
 
